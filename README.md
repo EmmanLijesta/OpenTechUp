@@ -1,2 +1,2 @@
 # TechMarkUp
-TechMarkUp is a [vlog](https://www.youtube.com/@techmarkup) about coding, especially using the Rust programming language in machine or deep learning, and artificial intelligence.
+[TechMarkUp](https://www.youtube.com/@techmarkup) is about coding, especially using the Rust programming language, for machine or deep learning, and artificial intelligence. Other programming languages presented here include JavaScript, HTML, CSS and PostgreSQL.
