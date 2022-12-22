@@ -1,2 +1,2 @@
 # TechMarkUp
-[TechMarkUp](https://www.youtube.com/@techmarkup) is about coding, especially using the Rust programming language, for machine or deep learning, and artificial intelligence. Other programming languages presented here include JavaScript, HTML, CSS and PostgreSQL.
+[TechMarkUp](https://www.youtube.com/@techmarkup) is about programming in Rust, JavaScript and Typescript, for machine and deep learning, and artificial intelligence. Other languages for markup and styles, such as HTML and CSS, as well as PostgreSQL for database management are also discussed here.
